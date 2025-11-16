@@ -19,4 +19,7 @@
 ![Коммит](./assets/load.png)
 ### Запустите контейнер на основе полученного образа
 ![Коммит](./assets/run.png)
-![Работа сайта](./assets/screen-site-record.gif)
+
+<div align="center">
+<img src="./assets/screen-site-record.gif" alt="Работа сайта (gif)">
+</div>
